@@ -9,6 +9,9 @@ The dashboard transforms the analytical datasets prepared in Google BigQuery int
 The main objective is to provide a clear, self-service view of GoExplore's business performance.
 
 ---
+## Dashboard Link:
+https://datastudio.google.com/s/po_Vr9lUchE
+
 
 ## 🏗️ Dashboard Data Pipeline
 
