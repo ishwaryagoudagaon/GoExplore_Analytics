@@ -188,11 +188,7 @@ goexplore-analytics/
 │   └── README.md
 │
 ├── Looker_Studio/
-│   └── Overview_KPI.png
-│   └── EU_Region_Growth.png
-│   └── Products.png
-│   └── Regions.png
-│   └── Retailers.png
+│   └── GoExplore_Dashboard.pdf
 │
 └── Google_Sheets/
     └──Avg_Unit_Selling_Price.png
